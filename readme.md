@@ -6,9 +6,9 @@ SuperNotes-Project is a note-taking application designed for efficient organizat
 
 ## Features
 
-- Create, edit, and delete notes
-- Organize notes by categories or tags
-- Search and filter notes
+- Create and Delete notes
+- Secure notes using a password
+- Recover notes from before
 - User-friendly interface
 
 ## Getting Started
@@ -36,9 +36,9 @@ The app will be available at `http://localhost:3000`.
 
 ## Usage
 
-- Add new notes using the "Add Note" button.
-- Edit or delete notes from the notes list.
-- Use the search bar to quickly find notes.
+- Add new notes using the "Save Note" button.
+- Delete notes from the notes list.
+- Secure your notes with a password
 
 ## Contributing
 
